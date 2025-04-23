@@ -9,6 +9,7 @@ function main() {
 
   console.log("aqui estan los productos con stock mayor a 2");
   console.log(getAllWith(2));
+  console.log(cambiamos algo);
 }
 
 main();
